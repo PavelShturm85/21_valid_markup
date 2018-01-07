@@ -1,6 +1,9 @@
 # Site of Real Estate Agency
 
-[TODO. There will be project description]
+The site about apartment.
+
+# Quickstart
+- https://pavelshturm85.github.io/21_valid_markup/
 
 # Project Goals
 
